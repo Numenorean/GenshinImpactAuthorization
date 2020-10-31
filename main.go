@@ -14,6 +14,8 @@ const (
 	authURL string = "https://hk4e-sdk-os.mihoyo.com/hk4e_global/mdk/shield/api/login?" // Default auth url. It is correct as of 31.10.2020
 )
 
+
+// Account credentials. It's a valid account - just test it
 var (
 	username string = "Felix_it@mail.ru"
 	password string = "Blacka777"
